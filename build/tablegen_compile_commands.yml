@@ -1,0 +1,66 @@
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include;/home/dgx/work/project/MLIR-Tutorial/build/3.create_dialect/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include;/home/dgx/work/project/MLIR-Tutorial/build/3.create_dialect/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include;/home/dgx/work/project/MLIR-Tutorial/build/3.create_dialect/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/3.create_dialect/include;/home/dgx/work/project/MLIR-Tutorial/build/3.create_dialect/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/4.create_ops/include;/home/dgx/work/project/MLIR-Tutorial/build/4.create_ops/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatDialect.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR/CatOps.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/IR;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/Transforms/Passes.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/Transforms;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"
+--- !FileInfo:
+  filepath: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/Transforms/Passes.td"
+  includes: "/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include/Cat/Transforms;/home/dgx/work/buddy-mlir/llvm/llvm/include;/home/dgx/work/buddy-mlir/llvm/build/include;/home/dgx/work/buddy-mlir/llvm/mlir/include;/home/dgx/work/buddy-mlir/llvm/build/tools/mlir/include;/home/dgx/work/project/MLIR-Tutorial/5.create_pass/include;/home/dgx/work/project/MLIR-Tutorial/build/5.create_pass/include"

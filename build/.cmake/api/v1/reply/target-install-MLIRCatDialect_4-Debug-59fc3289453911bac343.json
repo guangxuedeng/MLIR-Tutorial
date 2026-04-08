@@ -1,0 +1,114 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_llvm_install_targets",
+			"add_mlir_library_install",
+			"add_mlir_library",
+			"add_mlir_dialect_library",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/llvm/AddLLVM.cmake",
+			"/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/mlir/AddMLIR.cmake",
+			"4.create_ops/lib/Cat/IR/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 385,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 628,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 856,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 874,
+				"parent" : 4
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "MLIRCatDialect_4::@bec49986fb2072a0e1f5"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "LLVM/Installation"
+	},
+	"id" : "install-MLIRCatDialect_4::@bec49986fb2072a0e1f5",
+	"name" : "install-MLIRCatDialect_4",
+	"paths" : 
+	{
+		"build" : "4.create_ops/lib/Cat/IR",
+		"source" : "4.create_ops/lib/Cat/IR"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/4.create_ops/lib/Cat/IR/CMakeFiles/install-MLIRCatDialect_4",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/4.create_ops/lib/Cat/IR/CMakeFiles/install-MLIRCatDialect_4.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

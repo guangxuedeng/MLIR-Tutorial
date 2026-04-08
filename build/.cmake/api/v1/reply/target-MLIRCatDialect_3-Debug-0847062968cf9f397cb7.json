@@ -1,0 +1,211 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "3.create_dialect/lib/Cat/IR/libMLIRCatDialect_3.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"llvm_add_library",
+			"add_mlir_library",
+			"add_mlir_dialect_library",
+			"install",
+			"add_mlir_library_install",
+			"add_dependencies",
+			"add_compile_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/llvm/AddLLVM.cmake",
+			"/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/mlir/AddMLIR.cmake",
+			"3.create_dialect/lib/Cat/IR/CMakeLists.txt",
+			"/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/llvm/HandleLLVMOptions.cmake",
+			"CMakeLists.txt",
+			"3.create_dialect/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 380,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 644,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 385,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 615,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 807,
+				"parent" : 3
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 23,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 116,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 137,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 1093,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 1094,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 1095,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 4,
+				"line" : 26,
+				"parent" : 8
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 1,
+				"parent" : 17
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 2,
+				"parent" : 17
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "mlir-headers::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "mlir-generic-headers::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "MLIRCatIncGen_3::@721a2ad76b48e34167da"
+		},
+		{
+			"id" : "obj.MLIRCatDialect_3::@8e8b334530068ea585a6"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "MLIR/Libraries"
+	},
+	"id" : "MLIRCatDialect_3::@8e8b334530068ea585a6",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"name" : "MLIRCatDialect_3",
+	"nameOnDisk" : "libMLIRCatDialect_3.a",
+	"paths" : 
+	{
+		"build" : "3.create_dialect/lib/Cat/IR",
+		"source" : "3.create_dialect/lib/Cat/IR"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/3.create_dialect/lib/Cat/IR/CMakeFiles/obj.MLIRCatDialect_3.dir/CatDialect.cpp.o",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

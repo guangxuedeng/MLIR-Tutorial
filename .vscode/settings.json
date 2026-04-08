@@ -1,0 +1,18 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.generator": "Ninja",
+  "cmake.configureArgs": [
+    //"-DCMAKE_INSTALL_PREFIX=/home/dgx/work/buddy-mlir/llvm/build",
+    // -D<Lib>_DIR，camke会去这里查找第三方库
+    //  CMake 查找库的优先级从高到低：Lib>_DIR（手动指定） > CMAKE_PREFIX_PATH > CMAKE_INSTALL_PREFIX > 系统默认路径
+    "-DMLIR_DIR=/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/mlir",
+    "-DLLVM_DIR=/home/dgx/work/buddy-mlir/llvm/build/lib/cmake/llvm",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"
+  ],
+  "clangd.arguments": [
+        "--header-insertion=never",
+        "--compile-commands-dir=${workspaceFolder}/build",
+        "--query-driver=**",
+    ]
+}
